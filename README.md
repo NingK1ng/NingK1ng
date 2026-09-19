@@ -2,9 +2,9 @@
 
 Master’s student at Beijing Sport University, interested in computational neuroscience, neural signal processing, and electrophysiology.
 
-I build tools for research and reading.
+Feel free to visit my personal website below! 👇
 
-**[Personal website · Research, projects & writing](https://ningpeople.pages.dev/)**
+**[Ning's Blog · Research, projects & writing](https://ningpeople.pages.dev/)**
 
 ### Selected projects
 
